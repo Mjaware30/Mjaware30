@@ -52,12 +52,13 @@ OPEN_TO  = "Data Analyst, Business Analyst, Web Developer, UI Designer"
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=py,git,github,gcp,bash,jupyter&theme=dark)
+![Skills](https://skillicons.dev/icons?i=py,git,github,gcp,bash,jupyter,react&theme=dark)
 
 ![SQL](https://img.shields.io/badge/SQL-FFB020?style=flat-square&labelColor=0D1117)
 ![Pandas](https://img.shields.io/badge/Pandas-FFB020?style=flat-square&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-FFB020?style=flat-square&labelColor=0D1117)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFB020?style=flat-square&labelColor=0D1117)
+![Claude API](https://img.shields.io/badge/Claude%20API-FFB020?style=flat-square&labelColor=0D1117)
 
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-FFB020?style=flat-square&labelColor=0D1117)
 ![BigQuery](https://img.shields.io/badge/BigQuery-FFB020?style=flat-square&labelColor=0D1117)
@@ -70,6 +71,7 @@ OPEN_TO  = "Data Analyst, Business Analyst, Web Developer, UI Designer"
 
 <div align="center">
 
+![Algorithmic Fairness](https://img.shields.io/badge/Algorithmic%20Fairness-FFB020?style=flat-square&labelColor=0D1117)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FFB020?style=flat-square&labelColor=0D1117)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-FFB020?style=flat-square&labelColor=0D1117)
 ![CI/CD & DevOps](https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-FFB020?style=flat-square&labelColor=0D1117)
@@ -91,6 +93,30 @@ OPEN_TO  = "Data Analyst, Business Analyst, Web Developer, UI Designer"
 ### `$ projects --featured`
 
 <details open>
+<summary><b>FairHire — Bias Mitigation in Automated Hiring</b></summary>
+<br>
+
+| Stack | Scale | Impact |
+|---|---|---|
+| HTML, CSS, JavaScript (single-file MVP) | Fairness metrics: demographic parity, disparate impact ratio, SHAP explainability | 14-check jsdom test suite caught & fixed 2 real bugs pre-release |
+
+Capstone project mitigating algorithmic bias in automated hiring systems. Includes a working MVP prototype, an SITRC project synopsis mapped to SDG 5, 8 & 10, and a full IEEEtran-format conference paper on algorithmic fairness in hiring.
+
+</details>
+
+<details>
+<summary><b>MediMind — AI-Powered Health Assistant</b></summary>
+<br>
+
+| Stack | Scale | Impact |
+|---|---|---|
+| React, Anthropic Claude API | Graceful `simulateResponse()` fallback for offline / no-API environments | Built for a Lenovo × BharatCares capstone aligned with UN SDG 3 (Good Health & Well-being) |
+
+An AI health assistant web app integrating the Claude API for real-time guidance, with a built-in fallback so it keeps working without live API access.
+
+</details>
+
+<details>
 <summary><b>AI-Powered Data Analytics Dashboard</b></summary>
 <br>
 
