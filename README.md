@@ -1,34 +1,240 @@
-# 💫 Hi 👋, I'm Manas Jaware
-**A passionate student learning about AI Engineering || Promt Engineering || Data Analytics || Power BI ||**
-
-- 🔭 **I’m currently working on:** MediMind AI Health Assistant
-- 🌱 **I’m currently learning:** AI with specialization in Data Science
-- 🤔 **I’m looking for help with:** Deep Research & Deployment 
-- 💬 **Ask me about:** Collaboration, Tech Support, Data Analysis & Visualization
-- 📫 **How to reach me:** manas302005@gmail.com
-- 😄 **Pronouns:** MR. Manas
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/UVjZNCrZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manasj_45_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-jaware-12465b28a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/TheNatureAdmirrer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manas302005@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Manas%20Yogesh%20Jaware&fontSize=44&fontColor=FFB020&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=FFB020&animation=fadeIn" width="100%" alt="banner"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FFB020&background=0D1117&center=true&vCenter=true&width=680&height=120&lines=%24%20whoami%20-%3E%20manas.jaware;%24%20role%20-%3E%20Data%20Analyst%20%7C%20Business%20Analyst;%24%20stack%20-%3E%20Python%2C%20SQL%2C%20GCP%2C%20OCI%2C%20AI%20Agents;%24%20building%20-%3E%20cloud-native%20analytics%20dashboards;%24%20status%20-%3E%20open_to_work" alt="Typing SVG" />
+
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+### `$ info --badges`
 
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mjaware30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-FFB020?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/SITRC-Nashik-FFB020?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-FFB020?style=flat-square&labelColor=0D1117)
 
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### `$ connect --links`
 
+<div align="center">
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjaware30&theme=radical)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB020)](https://linkedin.com/in/manasyogesh-jaware-12465b28a)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB020)](mailto:manas302005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB020)](https://github.com/Mjaware30)
+
+</div>
+
+### `$ profile --stats`
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mjaware30&label=Profile%20Views&color=FFB020&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Mjaware30?label=Followers&style=flat-square&color=FFB020&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/Mjaware30?label=Stars&style=flat-square&color=FFB020&labelColor=0D1117)
+
+</div>
+
+### `$ about --me`
+
+Final-year B.Tech (AI & Data Science) student who turns raw data into decisions — building cloud-native analytics tools and CI/CD pipelines on GCP & OCI. As Vice Secretary of the BitByte Club, I led workshops and mentored 25+ peers on cloud and AI tooling. Currently sharpening my analyst toolkit and looking for my first role in Data or Business Analytics.
+
+```bash
+ROLE     = "Data Analyst | Business Analyst"
+EXP      = "Final-year Student (Grad. 2027)"
+DOMAIN   = "Cloud Infrastructure | Data Analytics | AI Agents"
+STACK    = "Python, SQL, GCP, OCI, Pandas, Scikit-learn"
+OPEN_TO  = "Data Analyst, Business Analyst, Web Developer, UI Designer"
+```
+
+### `$ tech-stack --list`
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,git,github,gcp,bash,jupyter&theme=dark)
+
+![SQL](https://img.shields.io/badge/SQL-FFB020?style=flat-square&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-FFB020?style=flat-square&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-FFB020?style=flat-square&labelColor=0D1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFB020?style=flat-square&labelColor=0D1117)
+
+![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-FFB020?style=flat-square&labelColor=0D1117)
+![BigQuery](https://img.shields.io/badge/BigQuery-FFB020?style=flat-square&labelColor=0D1117)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-FFB020?style=flat-square&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FFB020?style=flat-square&labelColor=0D1117)
+
+</div>
+
+### `$ specialties --tags`
+
+<div align="center">
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FFB020?style=flat-square&labelColor=0D1117)
+![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-FFB020?style=flat-square&labelColor=0D1117)
+![CI/CD & DevOps](https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-FFB020?style=flat-square&labelColor=0D1117)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-FFB020?style=flat-square&labelColor=0D1117)
+
+</div>
+
+### `$ expertise --table`
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Cloud Infrastructure (GCP / OCI) | Practitioner | Deployed CI/CD pipelines and explored AI Agent Studio on GCP + OCI |
+| Data Analytics & Visualisation | Practitioner | Built dashboards automating EDA; cut manual analysis time ~60% |
+| CI/CD & DevOps | Practitioner | Designed build → test → deploy pipelines with sub-3-minute cycles |
+| AI Agents | Learning | Completed Google's 5-Day AI Agents Intensive + Oracle Fusion AI Agent Studio |
+| Python & SQL Development | Practitioner | Pandas, NumPy, Scikit-learn for data wrangling & modelling |
+| Team Leadership | Practitioner | Led a 25-member club, mentored peers, delivered 3/3 events on schedule |
+
+### `$ projects --featured`
+
+<details open>
+<summary><b>AI-Powered Data Analytics Dashboard</b></summary>
+<br>
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Python, Jupyter Notebook | 5+ reusable visualisation modules across 3 datasets | Cut manual EDA time by ~60% vs. spreadsheets |
+
+Designed and built a data analytics dashboard from scratch to automate exploratory data analysis workflows, then applied ML techniques to surface patterns across 4 core ML concepts.
+
+</details>
+
+<details>
+<summary><b>CI/CD Pipeline on Google Cloud</b></summary>
+<br>
+
+| Stack | Scale | Impact |
+|---|---|---|
+| GCP, GitHub Actions, Google Cloud Build | Reduced manual deployment steps from 8 to 2 | Sub-3-minute commit-to-cloud deploy cycles; earned Google Cloud "Implement CI/CD Pipelines" skill badge |
+
+Architected and deployed a full CI/CD pipeline on GCP with automated build-test-deploy stages.
+
+</details>
+
+### `$ experience --log`
+
+**Aug 2024 – Jun 2025 · Vice Secretary, BitByte Club (SITRC)**
+- Led technical operations for a 25-member club, coordinating 3 workshops/events across 11 months
+- Delivered all 3 events on schedule with 0 cancellations
+- Mentored junior members on cloud & AI tools, contributing to a 20% increase in active participation
+
+`Leadership` `Event Operations` `Mentoring` `Cloud` `AI Tools`
+
+**Jun 2024 – Aug 2024 · HR Manager, BitByte Club (SITRC)**
+- Recruited and onboarded 15 new members across 4 departments in a single 3-month cycle
+- Designed a structured screening process, cutting selection turnaround to under 7 days
+- Maintained a 100% onboarding completion rate with zero drop-offs
+
+`Recruitment` `Process Design` `Onboarding`
+
+### `$ achievements --verified`
+
+<div align="center">
+
+| Achievement | Detail |
+|---|---|
+| ⚡ ~60% faster EDA | Automated analytics dashboard cut manual analysis time vs. spreadsheets |
+| 🚀 8 → 2 deploy steps | Streamlined CI/CD pipeline on Google Cloud |
+| ⏱️ Sub-3-min deploys | Consistent build → test → deploy cycles, commit to cloud |
+| 🏅 Google Cloud Skill Badge | "Implement CI/CD Pipelines" |
+| 🏅 Google Cloud Skill Badge | "Share Data Using Google Data" |
+| 👥 100% onboarding, 0 drop-offs | HR Manager, BitByte Club |
+| 📈 20% participation increase | Vice Secretary, BitByte Club |
+
+</div>
+
+### `$ education`
+
+<div align="center">
+
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%2C%20SITRC-FFB020?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+### `$ github --analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mjaware30&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FFB020&icon_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false" width="49%" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjaware30&theme=transparent&background=0D1117&stroke=FFB020&ring=FFB020&fire=FFB020&currStreakLabel=FFB020&sideLabels=8B949E&currStreakNum=FFB020&sideNums=FFB020&dates=8B949E&border=FFB020" width="49%" alt="streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjaware30&layout=compact&theme=transparent&bg_color=0D1117&title_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false" width="60%" alt="top langs"/>
+
+</div>
+
+### `$ trophies --unlocked`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mjaware30&theme=flat&column=7&no-frame=true&margin-w=8&margin-h=8&title-color=FFB020&icon-color=FFB020&text-color=8B949E&background=0D1117" width="100%" alt="trophies"/>
+
+</div>
+
+### `$ activity --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mjaware30&bg_color=0D1117&color=FFB020&line=FFB020&point=FFD580&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+### `$ summary --cards`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mjaware30&theme=github_dark" width="100%" alt="profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mjaware30&theme=github_dark" width="45%" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mjaware30&theme=github_dark" width="45%" alt="most commit language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mjaware30&theme=github_dark" width="45%" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mjaware30&theme=github_dark&utcOffset=5.5" width="45%" alt="productive time"/>
+
+</div>
+
+### `$ snake --contribution-grid`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Mjaware30/Mjaware30/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+### `$ current-focus.yaml`
+
+```yaml
+current_focus:
+  learning:
+    - AI Agents & Vertex AI
+    - Advanced SQL for analytics
+  building:
+    - Cloud-native analytics dashboards
+    - Personal engineering portfolio
+  exploring:
+    - Business analytics case studies
+    - UI/UX fundamentals
+  open_to:
+    - Data Analyst
+    - Business Analyst
+    - Web Developer
+    - UI Designer
+```
+
+### `$ connect --footer`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB020)](https://linkedin.com/in/manasyogesh-jaware-12465b28a)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB020)](mailto:manas302005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB020)](https://github.com/Mjaware30)
+
+<br>
+
+*"Turning data into decisions, one pipeline at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
