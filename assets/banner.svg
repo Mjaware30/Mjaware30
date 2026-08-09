@@ -1,0 +1,10 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" fill="#0D1117"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#FFB020"/>
+  <rect x="0" y="196" width="1200" height="4" fill="#FFB020"/>
+  <circle cx="34" cy="34" r="6" fill="none" stroke="#FFB020" stroke-width="1.5"/>
+  <circle cx="58" cy="34" r="6" fill="none" stroke="#FFB020" stroke-width="1.5"/>
+  <circle cx="82" cy="34" r="6" fill="none" stroke="#FFB020" stroke-width="1.5"/>
+  <text x="600" y="100" font-family="monospace" font-size="42" font-weight="700" fill="#FFB020" text-anchor="middle">$ Manas Yogesh Jaware</text>
+  <text x="600" y="140" font-family="monospace" font-size="18" fill="#FFB020" text-anchor="middle" opacity="0.85">Data Analyst | Business Analyst | Cloud &amp; AI Enthusiast</text>
+</svg>

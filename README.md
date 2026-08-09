@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Manas%20Yogesh%20Jaware&fontSize=44&fontColor=FFB020&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=FFB020&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Mjaware30/Mjaware30/main/assets/banner.svg" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FFB020&background=0D1117&center=true&vCenter=true&width=680&height=120&lines=%24%20whoami%20-%3E%20manas.jaware;%24%20role%20-%3E%20Data%20Analyst%20%7C%20Business%20Analyst;%24%20stack%20-%3E%20Python%2C%20SQL%2C%20GCP%2C%20OCI%2C%20AI%20Agents;%24%20building%20-%3E%20cloud-native%20analytics%20dashboards;%24%20status%20-%3E%20open_to_work" alt="Typing SVG" />
 
@@ -184,10 +184,10 @@ Architected and deployed a full CI/CD pipeline on GCP with automated build-test-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mjaware30&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FFB020&icon_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false" width="49%" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mjaware30&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FFB020&icon_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false&cache_seconds=86400" width="49%" alt="stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjaware30&theme=transparent&background=0D1117&stroke=FFB020&ring=FFB020&fire=FFB020&currStreakLabel=FFB020&sideLabels=8B949E&currStreakNum=FFB020&sideNums=FFB020&dates=8B949E&border=FFB020" width="49%" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjaware30&layout=compact&theme=transparent&bg_color=0D1117&title_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false" width="60%" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjaware30&layout=compact&theme=transparent&bg_color=0D1117&title_color=FFB020&text_color=8B949E&border_color=FFB020&hide_border=false&cache_seconds=86400" width="60%" alt="top langs"/>
 
 </div>
 
@@ -261,6 +261,6 @@ current_focus:
 
 *"Turning data into decisions, one pipeline at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Mjaware30/Mjaware30/main/assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
