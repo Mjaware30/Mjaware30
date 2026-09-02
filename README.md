@@ -20,8 +20,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB020)](https://linkedin.com/in/manasyogesh-jaware-12465b28a)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB020)](mailto:manas302005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB020)](https://linkedin.com/in/manas-yogesh-jaware-12465b28a)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB020)](mailto:jawaremanas.22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB020)](https://github.com/Mjaware30)
 
 </div>
